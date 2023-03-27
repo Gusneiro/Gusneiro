@@ -1,10 +1,20 @@
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
-<img alt="banner" src="./assets/images/github-readme-profile-gustavo.png" />
+README EM CONSTRUÇÃO
+<img alt="banner" src="./assets/images/github-readme-profile-gustavo.png" /> 
+
+<img align="right" src="https://thumbs.gfycat.com/FlashyImpeccableFlatcoatretriever-size_restricted.gif" width="350px">
+
+<div align="left">
+   <h1> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey! Nice to meet you! </h1>
+   <p> Hi! I'm a 21 years old guy.</p>
+</div>
+
+<br><br>
 
 <details>
-<summary>Programming Skills</summary>
+<summary>My Programming Skills</summary>
 
-| **Development Type** | 💻 **Lenguages** | 🛠 **Frameworks** |
+| **Development** | 💻 **Lenguages** | 🛠 **Frameworks** |
 | - | - | - |
 | Front-End | <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" /> <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> | <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />| 
 | Back-End | <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />  <img alt="c sharp" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />| <img alt="springboot" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" /> | 
@@ -14,7 +24,7 @@
 </details>
 
 <details>
-<summary>Tools</summary>
+<summary>My Main Tools</summary>
 
 | **Type** | 🛠 **Tool**|
 | - | - |
@@ -22,7 +32,7 @@
 | Prototype | <img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /> <img alt="photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black" />|
 | Workflow Project| <img alt="jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white" /> <img alt="jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white" />|
 | Group | <img alt="teams" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white" /> <img alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" /> |
-| Office / Documentation | <img alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" /> <img alt="powerpoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white" /> <img alt="word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white" /> <img alt="miro" src="https://img.shields.io/badge/Miro-050038?style=flat-square&logo=Miro&logoColor=white" /> <img alt="trello" src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" /> <img alt="" src="" />|
+| Documentation | <img alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" /> <img alt="powerpoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white" /> <img alt="word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white" /> <img alt="miro" src="https://img.shields.io/badge/Miro-050038?style=flat-square&logo=Miro&logoColor=white" /> <img alt="trello" src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" /> <img alt="" src="" />|
 | Repositories | <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" /> <img alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white" /> |
 | Cloud | <img alt="aws cloud" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" /> <img alt="azure" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />|
 
