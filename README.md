@@ -1,4 +1,6 @@
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
+<img alt="banner" src="./assets/images/github-readme-profile-gustavo.png" />
+
 <details>
 <summary>Programming Skills</summary>
 
@@ -12,9 +14,9 @@
 </details>
 
 <details>
-<summary>Ferramentas utilizadas</summary>
+<summary>Tools</summary>
 
-| **Tipo** | 🛠 **Ferramentas**|
+| **Type** | 🛠 **Tool**|
 | - | - |
 </details>
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
