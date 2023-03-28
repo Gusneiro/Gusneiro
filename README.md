@@ -12,7 +12,7 @@ README EM CONSTRUÇÃO
 <br><br>
 
 <details>
-<summary>My Programming Skills</summary>
+   <summary><h3>My Programming Skills</h3></summary>
 
 | **Development** | 💻 **Lenguages** | 🛠 **Frameworks** |
 | - | - | - |
@@ -24,7 +24,7 @@ README EM CONSTRUÇÃO
 </details>
 
 <details>
-<summary>My Main Tools</summary>
+<summary><h3>My Main Tools</h3></summary>
 
 | **Type** | 🛠 **Tool**|
 | - | - |
