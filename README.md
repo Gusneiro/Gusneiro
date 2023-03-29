@@ -17,19 +17,21 @@
 <br><br>
 
 **My Github Infos**
+![Anurag's GitHub stats])
 <table width="100%">
    <tr>
-      <td valign="top" width="50%">
-         <img style="height=200px" alt="github status 1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gusneiro&theme=dark">
+      <td valign="top" width="30%">
+        <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gusneiro&hide_progress=true&theme=onedark" />
       </td>
       <td valign="top" width="50%">
-         <img style="height=200px" alt="github status 2" src="https://github-readme-stats.vercel.app/api?username=Gusneiro&theme=dark">
+         <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api?username=Gusneiro&theme=onedark" />
       </td>
    </tr>
 </table>
+<br>
 
 <details>
-<summary>My Programming Skills</summary>
+<summary>My Programming Skills</summary><br>
    
 | **Development** | 💻 **Lenguages** | 🛠 **Frameworks** |
 | - | - | - |
@@ -41,7 +43,7 @@
 </details>
    
 <details>
-<summary>My Main Tools</summary>
+<summary>My Main Tools</summary><br>
    
 | **Type** | 🛠 **Tool**|
 | - | - |
